@@ -17,8 +17,8 @@ This directory contains assets of and related to the Greene Lab brand -- namely 
 **Theme colors:**
 
 `#00bcd4` (cyan)  
-`#009688` (teal) ← *THE* official/main "Green" to be used  
-`#4caf50` (green)  
+`#009688` (green) ← the official/main "green" to be used  
+`#4caf50` (lime)  
 `#000000` (black)  
 `#ffffff` (white)  
 

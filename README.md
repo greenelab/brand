@@ -14,14 +14,16 @@ This directory contains assets of and related to the Greene Lab brand -- namely 
 
 ## Style Guidelines
 
-Theme colors:  
-#00bcd4 (cyan)  
-#009688 (teal)  
-#4caf50 (green)  
-#000000 (black)  
-#ffffff (white)  
+**Theme colors:**
 
-Logo font:
+`#00bcd4` (cyan)  
+`#009688` (teal) ← *THE* official/main "Green" to be used  
+`#4caf50` (green)  
+`#000000` (black)  
+`#ffffff` (white)  
+
+**Logo font:**
+
 Montserrat (from Google Fonts), with modified capital "G" to add caret
 
 [Material design colors](https://www.materialpalette.com/colors) preferred for other color needs.

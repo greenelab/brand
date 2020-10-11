@@ -3,7 +3,7 @@ Assets of and related to the Greene Lab brand -- namely the logo in various form
 ## Contents
 
 - `/background` - Animated background for web conferences or a screensaver
-- `/icon` - Logo with just rings, for avatar, bookmark, and app icons
+- `/icon` - Logo for avatar, bookmark, app, and other icons
 - `/master` - Master SVG source code for logo, with rings and text
 - `/splash` - Animated logo with rings and text
 - `/text` - Logo with rings and text, w/ various backgrounds and colors

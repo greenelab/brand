@@ -7,6 +7,7 @@ Assets of and related to the Greene Lab brand -- namely the logo in various form
 - `/master` - Master SVG source code for logo, with rings and text
 - `/splash` - Animated logo with rings and text
 - `/text` - Logo with rings and text, w/ various backgrounds and colors
+- `/cu` - University of Colorado specific brand assets
 
 ## Style Guidelines
 
